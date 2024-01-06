@@ -1,8 +1,11 @@
- #Sentiment Analysis of Learning Management Systems on Twitter#
+Sentiment Analysis of Learning Management Systems on Twitter
+
 Introduction
+
 In the era of digital education, Learning Management Systems (LMS) have become pivotal in shaping how we learn and interact with educational content. Understanding the public sentiment towards these systems can provide invaluable insights for educators, developers, and policy-makers alike. This project aims to explore the vast terrain of public opinion on LMS by harnessing the power of sentiment analysis on data extracted from Twitter.
 
 Objective
+
 The primary objective of this project is to perform a comprehensive sentiment analysis of tweets related to Large Language Models (LLMs) and Learning Management Systems. By tapping into the real-time public discourse on Twitter, we aim to uncover the prevailing sentiments and perceptions surrounding these educational technologies.
 
 Methodology
