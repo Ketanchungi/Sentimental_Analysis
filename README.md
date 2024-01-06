@@ -1,5 +1,5 @@
 Sentiment Analysis of Learning Management Systems on Twitter
-
+Tableau Dashboard- https://public.tableau.com/shared/Z33B9G42K?:display_count=n&:origin=viz_share_link
 Introduction
 
 In the era of digital education, Learning Management Systems (LMS) have become pivotal in shaping how we learn and interact with educational content. Understanding the public sentiment towards these systems can provide invaluable insights for educators, developers, and policy-makers alike. This project aims to explore the vast terrain of public opinion on LMS by harnessing the power of sentiment analysis on data extracted from Twitter.
